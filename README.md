@@ -25,5 +25,11 @@ or identify anomalies.
 ## 🚀 How to Run
 ```bash
 python main.py
+```
 
+## 📈 Example Output
 
+## 🧠 What I Learned
+ - Log parsing in real production systems
+ - Building executable tools for non-Python environments
+ - Automating analysis workflows for engineers

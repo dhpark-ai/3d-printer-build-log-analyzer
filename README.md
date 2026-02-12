@@ -22,7 +22,7 @@ or identify anomalies.
 - matplotlib
 - PyQt5
 
-## Version comparison
+## 📌 Version comparison
 
 | Version | Graphs | warnings.txt | minmax.txt | PDF |
 |---------|--------|--------------|------------|-----|

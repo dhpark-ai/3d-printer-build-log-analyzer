@@ -11,7 +11,7 @@ or identify anomalies.
 
 ## 🛠️ What This Project Does
 - Parses build log text files
-- Extracts key parameters (temperature, time, etc.)
+- Extracts key parameters (temperature, speed, etc.)
 - Ignores data after "At the end of the build job"
 - Generates plots automatically
 - Exports results as a PDF report
@@ -22,12 +22,24 @@ or identify anomalies.
 - matplotlib
 - PyQt5
 
+## Version comparison
+
+| Version | Graphs | warnings.txt | minmax.txt | PDF |
+|---------|--------|--------------|------------|-----|
+| v1.0 | ✅ | ✅ | — | — |
+| v1.1 | ✅ | ✅ | ✅ | — |
+| v1.2 | ✅ | ✅ | ✅ | ✅ (folder per Build name) |
+
 ## 🚀 How to Run
 ```bash
+pip install -r requirements.txt
 python main.py
 ```
 
-## 📈 Example Output
+1. Click **Select log file**
+2. Choose the protocol `.txt` file to analyze
+3. Results are saved under `output/<Build job name>/`
+
 
 ## 🧠 What I Learned
  - Log parsing in real production systems

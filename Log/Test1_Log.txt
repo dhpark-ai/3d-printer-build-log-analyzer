@@ -1,0 +1,28 @@
+3/18/2025 1:19:23 PM (04:19:23 UTC)     Actual temperature heating: 195 °C
+3/18/2025 1:19:24 PM (04:19:24 UTC)     Actual temperature heating: 194 °C
+3/18/2025 1:19:25 PM (04:19:25 UTC)     Actual temperature heating: 205 °C
+3/18/2025 1:19:26 PM (04:19:26 UTC)     Actual temperature heating: 206 °C
+3/18/2025 1:19:33 PM (04:19:33 UTC)     Residual oxygen value in module: 0.3 %
+3/18/2025 1:19:34 PM (04:19:34 UTC)     Residual oxygen value in module: 0.31 %
+3/18/2025 1:19:35 PM (04:19:35 UTC)     Residual oxygen value in module: 0.29 %
+3/18/2025 1:19:36 PM (04:19:36 UTC)     Residual oxygen value in module: 0.4 %
+3/18/2025 1:21:12 PM (04:21:12 UTC)     Dew point sensor: -41 °C
+3/18/2025 1:21:13 PM (04:21:13 UTC)     Dew point sensor: -19 °C
+3/18/2025 1:21:14 PM (04:21:14 UTC)     Dew point sensor: -60 °C
+3/18/2025 1:21:15 PM (04:21:15 UTC)     Dew point sensor: -18 °C
+3/18/2025 1:22:55 PM (04:22:55 UTC)     Differential pressure : 18 mbar
+3/18/2025 1:22:56 PM (04:22:56 UTC)     Differential pressure : 71 mbar
+3/18/2025 1:22:57 PM (04:22:57 UTC)     Differential pressure : 19 mbar
+3/18/2025 1:22:58 PM (04:22:58 UTC)     Differential pressure : 72 mbar
+3/18/2025 1:25:38 PM (04:25:38 UTC)     Process chamber left: 60 °C
+3/18/2025 1:25:39 PM (04:25:39 UTC)     Process chamber left: 61 °C
+3/18/2025 1:25:40 PM (04:25:40 UTC)     Process chamber left: 1 °C
+3/18/2025 1:25:41 PM (04:25:41 UTC)     Process chamber left: 62 °C
+3/18/2025 1:37:30 PM (04:37:30 UTC)     Process chamber right: 60 °C
+3/18/2025 1:37:31 PM (04:37:31 UTC)     Process chamber right: 61 °C
+3/18/2025 1:37:32 PM (04:37:32 UTC)     Process chamber right: 59 °C
+3/18/2025 1:37:33 PM (04:37:33 UTC)     Process chamber right: 62 °C
+3/18/2025 1:38:31 PM (04:38:31 UTC)     Ventilator control: Target = 44.4 m³/h (Speed at build plate = 1.8 m/s), Actual = 44.3 m³/h; Ventilator rotation speed: Bottom = 79 %, Top = 36 %, Motor current top pump = 8.73 A
+3/18/2025 1:38:32 PM (04:38:32 UTC)     Ventilator control: Target = 44.4 m³/h (Speed at build plate = 1.8 m/s), Actual = 44.3 m³/h; Ventilator rotation speed: Bottom = 81 %, Top = 36 %, Motor current top pump = 8.73 A
+3/18/2025 1:38:33 PM (04:38:33 UTC)     Ventilator control: Target = 44.4 m³/h (Speed at build plate = 1.8 m/s), Actual = 44.3 m³/h; Ventilator rotation speed: Bottom = 45 %, Top = 36 %, Motor current top pump = 8.73 A
+3/18/2025 1:38:34 PM (04:38:34 UTC)     Ventilator control: Target = 44.4 m³/h (Speed at build plate = 1.8 m/s), Actual = 44.3 m³/h; Ventilator rotation speed: Bottom = 90 %, Top = 36 %, Motor current top pump = 8.73 A

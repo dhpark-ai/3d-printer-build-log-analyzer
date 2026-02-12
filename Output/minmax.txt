@@ -1,0 +1,9 @@
+Build job name: OOO
+
+Actual temperature heating - Min: 196.0, Max: 199.0
+Residual oxygen value in module - Min: 0.0172, Max: 0.0355
+Dew point sensor - Min: -60.0, Max: -41.0
+Process chamber left - Min: 31.0, Max: 40.0
+Process chamber right - Min: 32.0, Max: 39.0
+Ventilator rotation speed Bottom - Min: 38.0, Max: 45.0
+Differential pressure - Min: 18.0, Max: 25.0
